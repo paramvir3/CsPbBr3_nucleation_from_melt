@@ -1,0 +1,4 @@
+Each output file is titled track_CAS_[compound]_[size_of_cas].dat.
+1st column: bond length
+2nd column: RHF energy
+3rd column: CASSCF energy
